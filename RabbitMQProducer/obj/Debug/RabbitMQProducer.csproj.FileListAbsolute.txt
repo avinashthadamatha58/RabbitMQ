@@ -1,0 +1,12 @@
+c:\users\athadamatha\source\repos\PlayAroundWithRabbitMQ\RabbitMQProducer\bin\Debug\RabbitMQProducer.exe.config
+c:\users\athadamatha\source\repos\PlayAroundWithRabbitMQ\RabbitMQProducer\bin\Debug\RabbitMQProducer.exe
+c:\users\athadamatha\source\repos\PlayAroundWithRabbitMQ\RabbitMQProducer\bin\Debug\RabbitMQProducer.pdb
+c:\users\athadamatha\source\repos\PlayAroundWithRabbitMQ\RabbitMQProducer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+c:\users\athadamatha\source\repos\PlayAroundWithRabbitMQ\RabbitMQProducer\bin\Debug\RabbitMQ.Client.dll
+c:\users\athadamatha\source\repos\PlayAroundWithRabbitMQ\RabbitMQProducer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+c:\users\athadamatha\source\repos\PlayAroundWithRabbitMQ\RabbitMQProducer\bin\Debug\RabbitMQ.Client.xml
+c:\users\athadamatha\source\repos\PlayAroundWithRabbitMQ\RabbitMQProducer\obj\Debug\RabbitMQProducer.csprojResolveAssemblyReference.cache
+c:\users\athadamatha\source\repos\PlayAroundWithRabbitMQ\RabbitMQProducer\obj\Debug\RabbitMQProducer.csproj.CoreCompileInputs.cache
+c:\users\athadamatha\source\repos\PlayAroundWithRabbitMQ\RabbitMQProducer\obj\Debug\RabbitMQProducer.csproj.CopyComplete
+c:\users\athadamatha\source\repos\PlayAroundWithRabbitMQ\RabbitMQProducer\obj\Debug\RabbitMQProducer.exe
+c:\users\athadamatha\source\repos\PlayAroundWithRabbitMQ\RabbitMQProducer\obj\Debug\RabbitMQProducer.pdb
